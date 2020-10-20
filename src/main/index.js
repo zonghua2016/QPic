@@ -2,10 +2,10 @@
  * @Author       : tongzonghua
  * @Date         : 2020-07-12 23:47:24
  * @LastEditors  : tongzonghua
- * @LastEditTime : 2020-07-13 00:00:56
+ * @LastEditTime : 2020-10-20 23:24:52
  * @Email        : tongzonghua@360.cn
  * @Description  : 
- * @FilePath     : /workspace/QPic/src/main/index.js
+ * @FilePath     : /cli/QPic/src/main/index.js
  */ 
 import { app, BrowserWindow } from 'electron'
 

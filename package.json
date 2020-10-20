@@ -1,7 +1,7 @@
 {
   "name": "<%= projectName %>",
-  "version": "0.0.1",
-  "author": "tongzonghua <tongzonghua@360.cn>",
+  "version": "<%= version %>",
+  "author": "<%= author %>",
   "description": "<%= description %>",
   "license": null,
   "main": "./dist/electron/main.js",
@@ -17,7 +17,7 @@
     "postinstall": ""
   },
   "build": {
-    "productName": "qpic",
+    "productName": "<%= projectName %>",
     "appId": "com.example.yourapp",
     "directories": {
       "output": "build"
