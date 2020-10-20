@@ -2,13 +2,13 @@
  * @Author       : tongzonghua
  * @Date         : 2020-07-13 00:06:24
  * @LastEditors  : tongzonghua
- * @LastEditTime : 2020-07-13 00:43:43
+ * @LastEditTime : 2020-10-21 00:52:59
  * @Email        : tongzonghua@360.cn
- * @Description  : 右侧内容去
- * @FilePath     : /workspace/QPic/src/renderer/components/Content/index.vue
+ * @Description  : 内容取
+ * @FilePath     : /cli/QPic/src/renderer/components/Content/index.vue
 --> 
 <template>
-  <div class="content">右侧内容去</div>
+  <div class="content">Content</div>
 </template>
 <script>
 export default {
@@ -19,6 +19,5 @@ export default {
 <style lang="less" scoped>
 .content {
   width: 100%;
-  background: rgba(33, 51, 54, 0.7);
 }
 </style>
