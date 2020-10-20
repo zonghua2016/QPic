@@ -2,7 +2,7 @@
   "name": "<%= projectName %>",
   "version": "0.0.1",
   "author": "tongzonghua <tongzonghua@360.cn>",
-  "description": "An electron-vue project",
+  "description": "<=% description %>",
   "license": null,
   "main": "./dist/electron/main.js",
   "scripts": {
